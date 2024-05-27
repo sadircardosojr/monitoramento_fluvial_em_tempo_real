@@ -1,0 +1,36 @@
+# Define os serviços do Docker Compose
+services:
+  # Define o serviço Mosquitto
+  mosquitto:
+    # Usa a imagem Docker do Eclipse Mosquitto
+    image: eclipse-mosquitto
+    # Define o nome do contêiner como "mosquitto"
+    container_name: mosquitto
+    # Mapeia as portas do contêiner para o host
+    ports:
+      # Mapeia a porta 1883 do contêiner para a porta 1883 do host (porta padrão MQTT)
+      - "1883:1883"
+      # Mapeia a porta 9001 do contêiner para a porta 9001 do host (porta do WebSocket MQTT)
+      - "9001:9001"
+    # Monta volumes para persistir dados e configurações
+    volumes:
+      # Monta o diretório de configuração do Mosquitto
+      - ./mosquitto/config:/mosquitto/config
+      # Monta o diretório de dados do Mosquitto
+      - ./mosquitto/data:/mosquitto/data
+      # Monta o diretório de logs do Mosquitto
+      - ./mosquitto/log:/mosquitto/log
+      # Monta o arquivo de senha do Mosquitto
+      - ./mosquitto/config/passwordfile:/mosquitto/config/passwordfile
+    # Define a política de reinicialização do contêiner
+    restart: unless-stopped
+    # Configurações de logging para o contêiner
+    logging:
+      # Usa o driver de log "json-file"
+      driver: "json-file"
+      options:
+        # Define o tamanho máximo do arquivo de log como 10MB
+        max-size: "10m"
+
+
+
