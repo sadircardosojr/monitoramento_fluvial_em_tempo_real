@@ -17,4 +17,4 @@ Este repositório contém os seguintes scripts:
 1. **Clone este repositório para o seu ambiente local:**
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/seu-usuario/monitoramento_fluvial_em_tempo_real.git
