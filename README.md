@@ -10,8 +10,10 @@ O objetivo principal deste projeto é desenvolver ferramentas e scripts para col
 
 Este repositório contém os seguintes scripts:
 
-- `MQTT (Mosquitto)`
-- 
+- `IoT`: Arquivo de configuração base para ESP32 + Sensores.
+- `MQTT (Mosquitto)`: Arquivos para execução do broker MQTT.
+- `Kafka`: Arquivos para execução do Apache Kafka.
+  
 ## Como Usar
 
 1. **Clone este repositório para o seu ambiente local:**
