@@ -24,3 +24,6 @@ Este repositório contém os seguintes scripts:
    git clone https://github.com/seu-usuario/monitoramento_fluvial_em_tempo_real.git
 
 2. **Siga o processo definido no projeto relacionado a este repositório**
+   
+   ```bash
+   [Monitoramento fluvial em tempo real - Sadir Cardoso Junior](https://docs.google.com/document/d/1R47c7LHclnFGiuTauVfhBeEQlSVKyRwz/edit?usp=sharing&ouid=111025913474336467080&rtpof=true&sd=true)
