@@ -1,0 +1,901 @@
+1717500160: mosquitto version 2.0.18 starting
+1717500160: Config loaded from /mosquitto/config/mosquitto.conf.
+1717500160: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717500160: Error: /mosquitto/config/passwordfile is not a file.
+1717500160: Error: Unable to open pwfile "/mosquitto/config/passwordfile".
+1717500160: Error opening password file "/mosquitto/config/passwordfile".
+1717500161: mosquitto version 2.0.18 starting
+1717500161: Config loaded from /mosquitto/config/mosquitto.conf.
+1717500161: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717500161: Error: /mosquitto/config/passwordfile is not a file.
+1717500161: Error: Unable to open pwfile "/mosquitto/config/passwordfile".
+1717500161: Error opening password file "/mosquitto/config/passwordfile".
+1717500163: mosquitto version 2.0.18 starting
+1717500163: Config loaded from /mosquitto/config/mosquitto.conf.
+1717500163: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717500163: Error: /mosquitto/config/passwordfile is not a file.
+1717500163: Error: Unable to open pwfile "/mosquitto/config/passwordfile".
+1717500163: Error opening password file "/mosquitto/config/passwordfile".
+1717500164: mosquitto version 2.0.18 starting
+1717500164: Config loaded from /mosquitto/config/mosquitto.conf.
+1717500164: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717500164: Error: /mosquitto/config/passwordfile is not a file.
+1717500164: Error: Unable to open pwfile "/mosquitto/config/passwordfile".
+1717500164: Error opening password file "/mosquitto/config/passwordfile".
+1717500165: mosquitto version 2.0.18 starting
+1717500165: Config loaded from /mosquitto/config/mosquitto.conf.
+1717500165: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717500165: Error: /mosquitto/config/passwordfile is not a file.
+1717500165: Error: Unable to open pwfile "/mosquitto/config/passwordfile".
+1717500165: Error opening password file "/mosquitto/config/passwordfile".
+1717500167: mosquitto version 2.0.18 starting
+1717500167: Config loaded from /mosquitto/config/mosquitto.conf.
+1717500167: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717500167: Error: /mosquitto/config/passwordfile is not a file.
+1717500167: Error: Unable to open pwfile "/mosquitto/config/passwordfile".
+1717500167: Error opening password file "/mosquitto/config/passwordfile".
+1717500290: mosquitto version 2.0.18 starting
+1717500290: Config loaded from /mosquitto/config/mosquitto.conf.
+1717500290: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717500290: Opening ipv4 listen socket on port 1883.
+1717500290: Opening ipv6 listen socket on port 1883.
+1717500290: Opening websockets listen socket on port 9001.
+1717500290: mosquitto version 2.0.18 running
+1717500291: New connection from 192.168.80.1:42002 on port 1883.
+1717500291: New client connected from 192.168.80.1:42002 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717500307: New connection from 192.168.80.1:33394 on port 1883.
+1717500307: New client connected from 192.168.80.1:33394 as auto-BC80A336-AF60-F4D3-2975-4C1C91F7FCC9 (p2, c1, k60, u'teste').
+1717500345: mosquitto version 2.0.18 terminating
+1717500345: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717500352: mosquitto version 2.0.18 starting
+1717500352: Config loaded from /mosquitto/config/mosquitto.conf.
+1717500352: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717500352: Opening ipv4 listen socket on port 1883.
+1717500352: Opening ipv6 listen socket on port 1883.
+1717500352: Opening websockets listen socket on port 9001.
+1717500352: mosquitto version 2.0.18 running
+1717500353: New connection from 192.168.96.1:58710 on port 1883.
+1717500353: New client connected from 192.168.96.1:58710 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717500356: New connection from 192.168.96.1:52462 on port 1883.
+1717500356: New client connected from 192.168.96.1:52462 as auto-B55038DB-5ACC-9A1D-903C-F250F10E3240 (p2, c1, k60, u'teste').
+1717505594: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717507394: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717509195: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717622555: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717624356: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717626157: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717627958: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717722279: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717722836: mosquitto version 2.0.18 starting
+1717722836: Config loaded from /mosquitto/config/mosquitto.conf.
+1717722836: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717722836: Opening ipv4 listen socket on port 1883.
+1717722836: Opening ipv6 listen socket on port 1883.
+1717722836: Opening websockets listen socket on port 9001.
+1717722836: mosquitto version 2.0.18 running
+1717722836: New connection from 192.168.96.1:54296 on port 1883.
+1717722836: New client connected from 192.168.96.1:54296 as auto-C1AB9BD1-F398-42C9-42E2-D7033B6A643F (p2, c1, k60, u'teste').
+1717722836: New connection from 192.168.96.1:54310 on port 1883.
+1717722836: New client connected from 192.168.96.1:54310 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717723088: mosquitto version 2.0.18 terminating
+1717723088: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717723092: mosquitto version 2.0.18 starting
+1717723092: Config loaded from /mosquitto/config/mosquitto.conf.
+1717723092: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717723092: Opening ipv4 listen socket on port 1883.
+1717723092: Opening ipv6 listen socket on port 1883.
+1717723092: Opening websockets listen socket on port 9001.
+1717723092: mosquitto version 2.0.18 running
+1717723092: New connection from 192.168.96.1:35252 on port 1883.
+1717723092: New client connected from 192.168.96.1:35252 as auto-4FF748FC-5243-35C4-A92D-781FF10B75FC (p2, c1, k60, u'teste').
+1717723093: New connection from 192.168.96.1:35254 on port 1883.
+1717723093: New client connected from 192.168.96.1:35254 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717723583: mosquitto version 2.0.18 terminating
+1717723583: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717729758: mosquitto version 2.0.18 starting
+1717729758: Config loaded from /mosquitto/config/mosquitto.conf.
+1717729758: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717729758: Opening ipv4 listen socket on port 1883.
+1717729758: Opening ipv6 listen socket on port 1883.
+1717729758: Opening websockets listen socket on port 9001.
+1717729758: mosquitto version 2.0.18 running
+1717729759: New connection from 192.168.96.1:37924 on port 1883.
+1717729759: New client connected from 192.168.96.1:37924 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717729763: New connection from 192.168.96.1:37932 on port 1883.
+1717729763: New client connected from 192.168.96.1:37932 as auto-244B1189-5144-F88C-202B-6D9CD6CD4E8F (p2, c1, k60, u'teste').
+1717730064: mosquitto version 2.0.18 starting
+1717730064: Config loaded from /mosquitto/config/mosquitto.conf.
+1717730064: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717730064: Opening ipv4 listen socket on port 1883.
+1717730064: Opening ipv6 listen socket on port 1883.
+1717730064: Opening websockets listen socket on port 9001.
+1717730064: mosquitto version 2.0.18 running
+1717730064: New connection from 192.168.96.1:48784 on port 1883.
+1717730064: New client connected from 192.168.96.1:48784 as auto-1C95AC4D-CAD4-A8E8-DEA6-7B413EFB3207 (p2, c1, k60, u'teste').
+1717730065: New connection from 192.168.96.1:48794 on port 1883.
+1717730065: New client connected from 192.168.96.1:48794 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717731474: mosquitto version 2.0.18 starting
+1717731474: Config loaded from /mosquitto/config/mosquitto.conf.
+1717731474: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717731474: Opening ipv4 listen socket on port 1883.
+1717731474: Opening ipv6 listen socket on port 1883.
+1717731474: Opening websockets listen socket on port 9001.
+1717731474: mosquitto version 2.0.18 running
+1717731475: New connection from 192.168.96.1:34430 on port 1883.
+1717731475: New client connected from 192.168.96.1:34430 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717731584: New connection from 192.168.96.1:46354 on port 1883.
+1717731584: New client connected from 192.168.96.1:46354 as auto-7A9F11C0-FCC9-0587-3685-EB0E048972C4 (p2, c1, k60, u'teste').
+1717731940: mosquitto version 2.0.18 starting
+1717731940: Config loaded from /mosquitto/config/mosquitto.conf.
+1717731940: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717731940: Opening ipv4 listen socket on port 1883.
+1717731940: Opening ipv6 listen socket on port 1883.
+1717731940: Opening websockets listen socket on port 9001.
+1717731940: mosquitto version 2.0.18 running
+1717731940: New connection from 192.168.96.1:60556 on port 1883.
+1717731940: New client connected from 192.168.96.1:60556 as auto-6A14928A-2AE8-CE4F-E028-82AF454FC64E (p2, c1, k60, u'teste').
+1717731940: New connection from 192.168.96.1:60564 on port 1883.
+1717731940: New client connected from 192.168.96.1:60564 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717732332: New connection from 192.168.96.5:44344 on port 1883.
+1717732332: New client connected from 192.168.96.5:44344 as paho71485190600079 (p2, c1, k60, u'teste').
+1717732332: Client paho71485190600079 disconnected.
+1717732479: New connection from 192.168.96.5:58924 on port 1883.
+1717732479: New client connected from 192.168.96.5:58924 as paho71632321183843 (p2, c1, k60, u'teste').
+1717732479: Client paho71632321183843 disconnected.
+1717732494: New connection from 192.168.96.5:49030 on port 1883.
+1717732494: New client connected from 192.168.96.5:49030 as paho71647586733397 (p2, c1, k60, u'teste').
+1717732494: Client paho71647586733397 disconnected.
+1717732570: New connection from 192.168.96.5:49560 on port 1883.
+1717732570: New client connected from 192.168.96.5:49560 as paho71723001718771 (p2, c1, k60, u'teste').
+1717732570: Client paho71723001718771 disconnected.
+1717732571: New connection from 192.168.96.5:49572 on port 1883.
+1717732572: New client connected from 192.168.96.5:49572 as paho71724721796600 (p2, c1, k60, u'teste').
+1717732663: Client paho71724721796600 disconnected.
+1717732668: mosquitto version 2.0.18 terminating
+1717732668: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717732761: mosquitto version 2.0.18 starting
+1717732761: Config loaded from /mosquitto/config/mosquitto.conf.
+1717732761: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717732761: Opening ipv4 listen socket on port 1883.
+1717732761: Opening ipv6 listen socket on port 1883.
+1717732761: Opening websockets listen socket on port 9001.
+1717732761: mosquitto version 2.0.18 running
+1717732762: New connection from 192.168.112.1:36112 on port 1883.
+1717732762: New client connected from 192.168.112.1:36112 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717732815: New connection from 192.168.112.1:34972 on port 1883.
+1717732815: New client connected from 192.168.112.1:34972 as auto-DF5747CA-2B7F-D895-754F-7F386844D710 (p2, c1, k60, u'teste').
+1717732824: New connection from 192.168.112.5:59236 on port 1883.
+1717732825: New client connected from 192.168.112.5:59236 as paho71977832375624 (p2, c1, k60, u'teste').
+1717732825: Client paho71977832375624 disconnected.
+1717732826: New connection from 192.168.112.5:59248 on port 1883.
+1717732827: New client connected from 192.168.112.5:59248 as paho71979756835570 (p2, c1, k60, u'teste').
+1717733178: Client paho71979756835570 disconnected.
+1717733182: mosquitto version 2.0.18 terminating
+1717733182: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717733393: mosquitto version 2.0.18 starting
+1717733393: Config loaded from /mosquitto/config/mosquitto.conf.
+1717733393: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717733393: Opening ipv4 listen socket on port 1883.
+1717733393: Opening ipv6 listen socket on port 1883.
+1717733393: Opening websockets listen socket on port 9001.
+1717733393: mosquitto version 2.0.18 running
+1717733393: New connection from 192.168.128.1:47524 on port 1883.
+1717733393: New client connected from 192.168.128.1:47524 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717733454: New connection from 192.168.128.1:46040 on port 1883.
+1717733454: New client connected from 192.168.128.1:46040 as auto-0A3AF68B-68D8-17CC-F6A6-0E3B7263344E (p2, c1, k60, u'teste').
+1717733609: New connection from 192.168.128.5:36172 on port 1883.
+1717733609: New client connected from 192.168.128.5:36172 as paho72761968677026 (p2, c1, k60, u'teste').
+1717733609: Client paho72761968677026 disconnected.
+1717733611: New connection from 192.168.128.5:36180 on port 1883.
+1717733611: New client connected from 192.168.128.5:36180 as paho72763993293129 (p2, c1, k60, u'teste').
+1717733761: Client paho72763993293129 disconnected.
+1717733765: mosquitto version 2.0.18 terminating
+1717733765: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717733769: mosquitto version 2.0.18 starting
+1717733769: Config loaded from /mosquitto/config/mosquitto.conf.
+1717733769: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717733769: Opening ipv4 listen socket on port 1883.
+1717733769: Opening ipv6 listen socket on port 1883.
+1717733769: Opening websockets listen socket on port 9001.
+1717733769: mosquitto version 2.0.18 running
+1717733770: New connection from 192.168.128.1:53332 on port 1883.
+1717733770: New client connected from 192.168.128.1:53332 as auto-084CE6E9-64BD-3784-51AA-528184F2AF9B (p2, c1, k60, u'teste').
+1717733770: New connection from 192.168.128.1:53336 on port 1883.
+1717733770: New client connected from 192.168.128.1:53336 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717733809: New connection from 192.168.128.5:59294 on port 1883.
+1717733809: New client connected from 192.168.128.5:59294 as paho72962086537369 (p2, c1, k60, u'teste').
+1717733859: mosquitto version 2.0.18 starting
+1717733859: Config loaded from /mosquitto/config/mosquitto.conf.
+1717733859: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717733859: Opening ipv4 listen socket on port 1883.
+1717733859: Opening ipv6 listen socket on port 1883.
+1717733859: Opening websockets listen socket on port 9001.
+1717733859: mosquitto version 2.0.18 running
+1717733860: New connection from 192.168.144.1:34170 on port 1883.
+1717733860: New client connected from 192.168.144.1:34170 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717733867: New connection from 192.168.144.1:43568 on port 1883.
+1717733867: New client connected from 192.168.144.1:43568 as auto-72154CCD-E6FB-410C-DFF9-7DDF34607B9E (p2, c1, k60, u'teste').
+1717734177: New connection from 192.168.144.5:39682 on port 1883.
+1717734177: New client connected from 192.168.144.5:39682 as paho73330376673744 (p2, c1, k60, u'teste').
+1717734177: Client paho73330376673744 disconnected.
+1717734179: New connection from 192.168.144.5:39684 on port 1883.
+1717734179: New client connected from 192.168.144.5:39684 as paho73332237435678 (p2, c1, k60, u'teste').
+1717734712: Client paho73332237435678 disconnected.
+1717734716: mosquitto version 2.0.18 terminating
+1717734716: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717735112: mosquitto version 2.0.18 starting
+1717735112: Config loaded from /mosquitto/config/mosquitto.conf.
+1717735112: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717735112: Opening ipv4 listen socket on port 1883.
+1717735112: Opening ipv6 listen socket on port 1883.
+1717735112: Opening websockets listen socket on port 9001.
+1717735112: mosquitto version 2.0.18 running
+1717735112: New connection from 192.168.160.1:59664 on port 1883.
+1717735112: New client connected from 192.168.160.1:59664 as auto-0AC038C4-9832-F554-825C-175EF6CDF85E (p2, c1, k60, u'teste').
+1717735112: New connection from 192.168.160.1:59680 on port 1883.
+1717735112: New client connected from 192.168.160.1:59680 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717735204: mosquitto version 2.0.18 terminating
+1717735204: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717735210: mosquitto version 2.0.18 starting
+1717735210: Config loaded from /mosquitto/config/mosquitto.conf.
+1717735210: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717735210: Opening ipv4 listen socket on port 1883.
+1717735210: Opening ipv6 listen socket on port 1883.
+1717735210: Opening websockets listen socket on port 9001.
+1717735210: mosquitto version 2.0.18 running
+1717735211: New connection from 192.168.160.1:34592 on port 1883.
+1717735211: New client connected from 192.168.160.1:34592 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717735211: New connection from 192.168.160.1:34596 on port 1883.
+1717735211: New client connected from 192.168.160.1:34596 as auto-C7787579-B2B6-B6B8-297C-C48C738C899E (p2, c1, k60, u'teste').
+1717735300: mosquitto version 2.0.18 terminating
+1717735300: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717735306: mosquitto version 2.0.18 starting
+1717735306: Config loaded from /mosquitto/config/mosquitto.conf.
+1717735306: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717735306: Opening ipv4 listen socket on port 1883.
+1717735306: Opening ipv6 listen socket on port 1883.
+1717735306: Opening websockets listen socket on port 9001.
+1717735306: mosquitto version 2.0.18 running
+1717735306: New connection from 192.168.160.1:52842 on port 1883.
+1717735306: New client connected from 192.168.160.1:52842 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717735307: New connection from 192.168.160.1:52846 on port 1883.
+1717735307: New client connected from 192.168.160.1:52846 as auto-C48AAF2A-2DB4-19BA-27A1-879D0F0388B5 (p2, c1, k60, u'teste').
+1717735502: New connection from 192.168.160.5:41250 on port 1883.
+1717735502: New client connected from 192.168.160.5:41250 as paho74655454096913 (p2, c1, k60, u'teste').
+1717735502: Client paho74655454096913 disconnected.
+1717735504: New connection from 192.168.160.5:46016 on port 1883.
+1717735504: New client connected from 192.168.160.5:46016 as paho74657440528449 (p2, c1, k60, u'teste').
+1717735719: mosquitto version 2.0.18 starting
+1717735719: Config loaded from /mosquitto/config/mosquitto.conf.
+1717735719: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717735719: Opening ipv4 listen socket on port 1883.
+1717735719: Opening ipv6 listen socket on port 1883.
+1717735719: Opening websockets listen socket on port 9001.
+1717735719: mosquitto version 2.0.18 running
+1717735719: New connection from 192.168.160.1:50022 on port 1883.
+1717735719: New client connected from 192.168.160.1:50022 as auto-ECAC3091-5541-646A-1139-E6A3E50827B9 (p2, c1, k60, u'teste').
+1717735720: New connection from 192.168.160.1:50028 on port 1883.
+1717735720: New client connected from 192.168.160.1:50028 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717735794: mosquitto version 2.0.18 terminating
+1717735794: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717735825: mosquitto version 2.0.18 starting
+1717735825: Config loaded from /mosquitto/config/mosquitto.conf.
+1717735825: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717735825: Opening ipv4 listen socket on port 1883.
+1717735825: Opening ipv6 listen socket on port 1883.
+1717735825: Opening websockets listen socket on port 9001.
+1717735825: mosquitto version 2.0.18 running
+1717735826: New connection from 192.168.160.1:35320 on port 1883.
+1717735826: New client connected from 192.168.160.1:35320 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717735838: New connection from 192.168.160.1:57986 on port 1883.
+1717735838: New client connected from 192.168.160.1:57986 as auto-C6CE1587-8BB0-38E0-9570-563E8AD2F922 (p2, c1, k60, u'teste').
+1717735855: mosquitto version 2.0.18 terminating
+1717735855: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717735867: mosquitto version 2.0.18 starting
+1717735867: Config loaded from /mosquitto/config/mosquitto.conf.
+1717735867: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717735867: Opening ipv4 listen socket on port 1883.
+1717735867: Opening ipv6 listen socket on port 1883.
+1717735867: Opening websockets listen socket on port 9001.
+1717735867: mosquitto version 2.0.18 running
+1717735867: New connection from 192.168.176.1:58868 on port 1883.
+1717735867: New client connected from 192.168.176.1:58868 as auto-8E608BD0-E813-7581-AE4F-4F7CE45B2688 (p2, c1, k60, u'teste').
+1717735868: New connection from 192.168.176.1:58880 on port 1883.
+1717735868: New client connected from 192.168.176.1:58880 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717735915: New connection from 192.168.176.5:58110 on port 1883.
+1717735915: New client connected from 192.168.176.5:58110 as paho75068517070577 (p2, c1, k60, u'teste').
+1717735915: Client paho75068517070577 disconnected.
+1717735917: New connection from 192.168.176.5:58116 on port 1883.
+1717735917: New client connected from 192.168.176.5:58116 as paho75070447129812 (p2, c1, k60, u'teste').
+1717803296: Client paho75070447129812 disconnected.
+1717803301: mosquitto version 2.0.18 terminating
+1717803301: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717806718: mosquitto version 2.0.18 starting
+1717806718: Config loaded from /mosquitto/config/mosquitto.conf.
+1717806718: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717806718: Opening ipv4 listen socket on port 1883.
+1717806718: Opening ipv6 listen socket on port 1883.
+1717806718: Opening websockets listen socket on port 9001.
+1717806718: mosquitto version 2.0.18 running
+1717806718: New connection from 172.18.0.1:37354 on port 1883.
+1717806718: New client connected from 172.18.0.1:37354 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717806799: New connection from 172.18.0.1:48520 on port 1883.
+1717806799: New client connected from 172.18.0.1:48520 as auto-C3D9BFC2-AFE7-0BDE-6053-63735AEFC245 (p2, c1, k60, u'teste').
+1717806866: New connection from 172.18.0.7:39540 on port 1883.
+1717806867: New client connected from 172.18.0.7:39540 as paho79509918076576 (p2, c1, k60, u'teste').
+1717806867: Client paho79509918076576 disconnected.
+1717806868: New connection from 172.18.0.7:39542 on port 1883.
+1717806869: New client connected from 172.18.0.7:39542 as paho79511913790857 (p2, c1, k60, u'teste').
+1717807112: Client paho79511913790857 disconnected.
+1717807117: mosquitto version 2.0.18 terminating
+1717807117: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717807120: mosquitto version 2.0.18 starting
+1717807120: Config loaded from /mosquitto/config/mosquitto.conf.
+1717807120: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717807120: Opening ipv4 listen socket on port 1883.
+1717807120: Opening ipv6 listen socket on port 1883.
+1717807120: Opening websockets listen socket on port 9001.
+1717807120: mosquitto version 2.0.18 running
+1717807120: New connection from 172.18.0.1:36198 on port 1883.
+1717807120: New client connected from 172.18.0.1:36198 as auto-0D1EDF34-F47C-19CE-0073-ED9D8BC4BA11 (p2, c1, k60, u'teste').
+1717807121: New connection from 172.18.0.1:36210 on port 1883.
+1717807121: New client connected from 172.18.0.1:36210 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717807193: New connection from 172.18.0.7:52624 on port 1883.
+1717807193: New client connected from 172.18.0.7:52624 as paho79836131895088 (p2, c1, k60, u'teste').
+1717808920: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717810721: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717812521: Client paho79836131895088 disconnected.
+1717812522: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717812527: mosquitto version 2.0.18 terminating
+1717812527: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717812530: mosquitto version 2.0.18 starting
+1717812530: Config loaded from /mosquitto/config/mosquitto.conf.
+1717812530: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717812530: Opening ipv4 listen socket on port 1883.
+1717812530: Opening ipv6 listen socket on port 1883.
+1717812530: Opening websockets listen socket on port 9001.
+1717812530: mosquitto version 2.0.18 running
+1717812531: New connection from 172.18.0.1:53178 on port 1883.
+1717812531: New client connected from 172.18.0.1:53178 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717812534: New connection from 172.18.0.1:41430 on port 1883.
+1717812534: New client connected from 172.18.0.1:41430 as auto-4D5D9EC9-594D-064E-5BE7-40CEB823F099 (p2, c1, k60, u'teste').
+1717812814: mosquitto version 2.0.18 starting
+1717812814: Config loaded from /mosquitto/config/mosquitto.conf.
+1717812814: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717812814: Opening ipv4 listen socket on port 1883.
+1717812814: Opening ipv6 listen socket on port 1883.
+1717812814: Opening websockets listen socket on port 9001.
+1717812814: mosquitto version 2.0.18 running
+1717812815: New connection from 172.19.0.1:55952 on port 1883.
+1717812815: New client connected from 172.19.0.1:55952 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717812817: New connection from 172.19.0.1:55966 on port 1883.
+1717812817: New client connected from 172.19.0.1:55966 as auto-7C470F0B-D7D7-203A-8842-51EFD51F3CEE (p2, c1, k60, u'teste').
+1717812884: New connection from 172.19.0.7:51822 on port 1883.
+1717812885: New client connected from 172.19.0.7:51822 as paho85528201482720 (p2, c1, k60, u'teste').
+1717812885: Client paho85528201482720 disconnected.
+1717812887: New connection from 172.19.0.7:51834 on port 1883.
+1717812887: New client connected from 172.19.0.7:51834 as paho85530490364523 (p2, c1, k60, u'teste').
+1717813386: Client paho85530490364523 disconnected.
+1717813391: mosquitto version 2.0.18 terminating
+1717813391: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717815328: mosquitto version 2.0.18 starting
+1717815328: Config loaded from /mosquitto/config/mosquitto.conf.
+1717815328: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717815328: Opening ipv4 listen socket on port 1883.
+1717815328: Opening ipv6 listen socket on port 1883.
+1717815328: Opening websockets listen socket on port 9001.
+1717815328: mosquitto version 2.0.18 running
+1717815328: New connection from 172.19.0.1:44492 on port 1883.
+1717815328: New client connected from 172.19.0.1:44492 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717815380: New connection from 172.19.0.7:56976 on port 1883.
+1717815380: New client connected from 172.19.0.7:56976 as paho88023603714937 (p2, c1, k60, u'teste').
+1717815404: New connection from 172.19.0.1:35890 on port 1883.
+1717815404: New client connected from 172.19.0.1:35890 as auto-6A635317-48B9-E391-1114-B98FC2CB4F86 (p2, c1, k60, u'teste').
+1717815597: Client paho88023603714937 disconnected.
+1717815602: mosquitto version 2.0.18 terminating
+1717815602: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717815615: mosquitto version 2.0.18 starting
+1717815615: Config loaded from /mosquitto/config/mosquitto.conf.
+1717815615: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717815615: Opening ipv4 listen socket on port 1883.
+1717815615: Opening ipv6 listen socket on port 1883.
+1717815615: Opening websockets listen socket on port 9001.
+1717815615: mosquitto version 2.0.18 running
+1717815615: New connection from 172.20.0.1:39474 on port 1883.
+1717815615: New client connected from 172.20.0.1:39474 as auto-A43C6B1A-AC6A-2C21-B2EE-4889BDB28A7B (p2, c1, k60, u'teste').
+1717815616: New connection from 172.20.0.1:39482 on port 1883.
+1717815616: New client connected from 172.20.0.1:39482 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717815686: New connection from 172.20.0.7:44354 on port 1883.
+1717815686: New client connected from 172.20.0.7:44354 as paho88329548213084 (p2, c1, k60, u'teste').
+1717815686: Client paho88329548213084 disconnected.
+1717815688: New connection from 172.20.0.7:44368 on port 1883.
+1717815688: New client connected from 172.20.0.7:44368 as paho88331658836359 (p2, c1, k60, u'teste').
+1717816505: Client paho88331658836359 disconnected.
+1717816509: mosquitto version 2.0.18 terminating
+1717816509: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717816524: mosquitto version 2.0.18 starting
+1717816524: Config loaded from /mosquitto/config/mosquitto.conf.
+1717816524: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717816524: Opening ipv4 listen socket on port 1883.
+1717816524: Opening ipv6 listen socket on port 1883.
+1717816524: Opening websockets listen socket on port 9001.
+1717816524: mosquitto version 2.0.18 running
+1717816525: New connection from 172.20.0.1:41470 on port 1883.
+1717816525: New client connected from 172.20.0.1:41470 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717816532: New connection from 172.20.0.1:41474 on port 1883.
+1717816532: New client connected from 172.20.0.1:41474 as auto-FDC5EE68-1F29-925B-92DA-27EE42EB67A0 (p2, c1, k60, u'teste').
+1717816567: New connection from 172.20.0.7:53696 on port 1883.
+1717816567: New client connected from 172.20.0.7:53696 as paho89210766841934 (p2, c1, k60, u'teste').
+1717816906: Client paho89210766841934 disconnected.
+1717816911: mosquitto version 2.0.18 terminating
+1717816911: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717816915: mosquitto version 2.0.18 starting
+1717816915: Config loaded from /mosquitto/config/mosquitto.conf.
+1717816915: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717816915: Opening ipv4 listen socket on port 1883.
+1717816915: Opening ipv6 listen socket on port 1883.
+1717816915: Opening websockets listen socket on port 9001.
+1717816915: mosquitto version 2.0.18 running
+1717816916: New connection from 172.20.0.1:54964 on port 1883.
+1717816916: New client connected from 172.20.0.1:54964 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717816917: New connection from 172.20.0.1:54966 on port 1883.
+1717816917: New client connected from 172.20.0.1:54966 as auto-2AFD1180-7F46-B228-6FCC-331E8DA12CA0 (p2, c1, k60, u'teste').
+1717816962: New connection from 172.20.0.7:44328 on port 1883.
+1717816962: New client connected from 172.20.0.7:44328 as paho89605992761620 (p2, c1, k60, u'teste').
+1717817160: Client paho89605992761620 disconnected.
+1717817164: mosquitto version 2.0.18 terminating
+1717817164: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717817179: mosquitto version 2.0.18 starting
+1717817179: Config loaded from /mosquitto/config/mosquitto.conf.
+1717817179: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717817179: Opening ipv4 listen socket on port 1883.
+1717817179: Opening ipv6 listen socket on port 1883.
+1717817179: Opening websockets listen socket on port 9001.
+1717817179: mosquitto version 2.0.18 running
+1717817180: New connection from 172.21.0.1:57046 on port 1883.
+1717817180: New client connected from 172.21.0.1:57046 as auto-0D0A77BC-D823-4A91-D973-2AE4E3F8237A (p2, c1, k60, u'teste').
+1717817180: New connection from 172.21.0.1:57060 on port 1883.
+1717817180: New client connected from 172.21.0.1:57060 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717817364: mosquitto version 2.0.18 starting
+1717817364: Config loaded from /mosquitto/config/mosquitto.conf.
+1717817364: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717817364: Opening ipv4 listen socket on port 1883.
+1717817364: Opening ipv6 listen socket on port 1883.
+1717817364: Opening websockets listen socket on port 9001.
+1717817364: mosquitto version 2.0.18 running
+1717817364: New connection from 172.21.0.1:55844 on port 1883.
+1717817364: New connection from 172.21.0.1:55846 on port 1883.
+1717817364: New client connected from 172.21.0.1:55844 as auto-88C706A9-51FE-B4E7-760E-E969DD35FD88 (p2, c1, k60, u'teste').
+1717817364: New client connected from 172.21.0.1:55846 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717817464: New connection from 172.21.0.7:43834 on port 1883.
+1717817465: New client connected from 172.21.0.7:43834 as paho90108414776977 (p2, c1, k60, u'teste').
+1717817465: Client paho90108414776977 disconnected.
+1717817467: New connection from 172.21.0.7:43836 on port 1883.
+1717817467: New client connected from 172.21.0.7:43836 as paho90110729867755 (p2, c1, k60, u'teste').
+1717818208: Client paho90110729867755 disconnected.
+1717818213: mosquitto version 2.0.18 terminating
+1717818213: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717818219: mosquitto version 2.0.18 starting
+1717818219: Config loaded from /mosquitto/config/mosquitto.conf.
+1717818219: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717818219: Opening ipv4 listen socket on port 1883.
+1717818219: Opening ipv6 listen socket on port 1883.
+1717818219: Opening websockets listen socket on port 9001.
+1717818219: mosquitto version 2.0.18 running
+1717818219: New connection from 172.21.0.1:51688 on port 1883.
+1717818219: New client connected from 172.21.0.1:51688 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717818223: New connection from 172.21.0.1:51694 on port 1883.
+1717818223: New client connected from 172.21.0.1:51694 as auto-CC76830C-16E2-F807-62DE-C1C89F32F732 (p2, c1, k60, u'teste').
+1717818269: New connection from 172.21.0.7:44394 on port 1883.
+1717818269: New client connected from 172.21.0.7:44394 as paho90913006133313 (p2, c1, k60, u'teste').
+1717818280: Client paho90913006133313 disconnected.
+1717818284: mosquitto version 2.0.18 terminating
+1717818284: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717818289: mosquitto version 2.0.18 starting
+1717818289: Config loaded from /mosquitto/config/mosquitto.conf.
+1717818289: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717818289: Opening ipv4 listen socket on port 1883.
+1717818289: Opening ipv6 listen socket on port 1883.
+1717818289: Opening websockets listen socket on port 9001.
+1717818289: mosquitto version 2.0.18 running
+1717818289: New connection from 172.21.0.1:33268 on port 1883.
+1717818289: New client connected from 172.21.0.1:33268 as auto-F4E7E113-8B9B-E4A3-B27F-42A85B820F99 (p2, c1, k60, u'teste').
+1717818290: New connection from 172.21.0.1:33284 on port 1883.
+1717818290: New client connected from 172.21.0.1:33284 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717818339: New connection from 172.21.0.7:49308 on port 1883.
+1717818340: New client connected from 172.21.0.7:49308 as paho90983338387554 (p2, c1, k60, u'teste').
+1717818506: mosquitto version 2.0.18 starting
+1717818506: Config loaded from /mosquitto/config/mosquitto.conf.
+1717818506: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717818506: Opening ipv4 listen socket on port 1883.
+1717818506: Opening ipv6 listen socket on port 1883.
+1717818506: Opening websockets listen socket on port 9001.
+1717818506: mosquitto version 2.0.18 running
+1717818506: New connection from 172.21.0.1:51036 on port 1883.
+1717818506: New client connected from 172.21.0.1:51036 as auto-89201922-9D83-C010-CE8A-63C854DDA910 (p2, c1, k60, u'teste').
+1717818506: New connection from 172.21.0.1:51046 on port 1883.
+1717818506: New client connected from 172.21.0.1:51046 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717818573: New connection from 172.21.0.7:56542 on port 1883.
+1717818573: New client connected from 172.21.0.7:56542 as paho91216747479905 (p2, c1, k60, u'teste').
+1717818769: Client paho91216747479905 disconnected.
+1717818774: mosquitto version 2.0.18 terminating
+1717818774: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717818778: mosquitto version 2.0.18 starting
+1717818778: Config loaded from /mosquitto/config/mosquitto.conf.
+1717818778: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717818778: Opening ipv4 listen socket on port 1883.
+1717818778: Opening ipv6 listen socket on port 1883.
+1717818778: Opening websockets listen socket on port 9001.
+1717818778: mosquitto version 2.0.18 running
+1717818778: New connection from 172.21.0.1:47930 on port 1883.
+1717818778: New client connected from 172.21.0.1:47930 as auto-FF4243A4-6377-D709-1A12-1B61824666EE (p2, c1, k60, u'teste').
+1717818779: New connection from 172.21.0.1:47936 on port 1883.
+1717818779: New client connected from 172.21.0.1:47936 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717972164: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717973965: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717975766: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717977567: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717979367: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717981168: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717982969: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717983871: Client auto-FF4243A4-6377-D709-1A12-1B61824666EE closed its connection.
+1717984170: New connection from 172.21.0.1:50022 on port 1883.
+1717984170: New client connected from 172.21.0.1:50022 as auto-4E9D67EB-4D1C-9D8D-7E5D-0B72140BE2B0 (p2, c1, k60, u'teste').
+1717984770: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717984930: mosquitto version 2.0.18 terminating
+1717984930: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717984943: mosquitto version 2.0.18 starting
+1717984943: Config loaded from /mosquitto/config/mosquitto.conf.
+1717984943: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717984943: Opening ipv4 listen socket on port 1883.
+1717984943: Opening ipv6 listen socket on port 1883.
+1717984943: Opening websockets listen socket on port 9001.
+1717984943: mosquitto version 2.0.18 running
+1717984943: New connection from 172.22.0.1:60514 on port 1883.
+1717984943: New client connected from 172.22.0.1:60514 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717984945: New connection from 172.22.0.1:60528 on port 1883.
+1717984945: New client connected from 172.22.0.1:60528 as auto-E08BAE97-8875-60F3-8FCE-9D417FD6A31F (p2, c1, k60, u'teste').
+1717985069: New connection from 172.22.0.7:55718 on port 1883.
+1717985070: New client connected from 172.22.0.7:55718 as paho106129180842741 (p2, c1, k60, u'teste').
+1717985070: Client paho106129180842741 disconnected.
+1717985072: New connection from 172.22.0.7:55724 on port 1883.
+1717985072: New client connected from 172.22.0.7:55724 as paho106131361291369 (p2, c1, k60, u'teste').
+1717986062: New connection from 172.22.0.7:54356 on port 1883.
+1717986062: New client connected from 172.22.0.7:54356 as paho107121529490473 (p2, c1, k60, u'teste').
+1717986062: Client paho107121529490473 disconnected.
+1717986406: Client paho106131361291369 disconnected.
+1717986410: mosquitto version 2.0.18 terminating
+1717986410: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717986472: mosquitto version 2.0.18 starting
+1717986472: Config loaded from /mosquitto/config/mosquitto.conf.
+1717986472: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717986472: Opening ipv4 listen socket on port 1883.
+1717986472: Opening ipv6 listen socket on port 1883.
+1717986472: Opening websockets listen socket on port 9001.
+1717986472: mosquitto version 2.0.18 running
+1717986472: New connection from 172.23.0.1:37676 on port 1883.
+1717986472: New client connected from 172.23.0.1:37676 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717986490: New connection from 172.23.0.1:39476 on port 1883.
+1717986490: New client connected from 172.23.0.1:39476 as auto-14C586DC-1739-292E-6739-7D37446A7A58 (p2, c1, k60, u'teste').
+1717986571: New connection from 172.23.0.7:57420 on port 1883.
+1717986571: New client connected from 172.23.0.7:57420 as paho107630828652834 (p2, c1, k60, u'teste').
+1717986571: Client paho107630828652834 disconnected.
+1717986573: New connection from 172.23.0.7:57436 on port 1883.
+1717986573: New client connected from 172.23.0.7:57436 as paho107633028418032 (p2, c1, k60, u'teste').
+1717986782: Client paho107633028418032 closed its connection.
+1717986823: New connection from 172.23.0.7:34082 on port 1883.
+1717986823: New client connected from 172.23.0.7:34082 as paho107882365408039 (p2, c1, k60, u'teste').
+1717987817: Client paho107882365408039 disconnected.
+1717987823: mosquitto version 2.0.18 terminating
+1717987823: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1717987923: mosquitto version 2.0.18 starting
+1717987923: Config loaded from /mosquitto/config/mosquitto.conf.
+1717987923: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717987923: Opening ipv4 listen socket on port 1883.
+1717987923: Opening ipv6 listen socket on port 1883.
+1717987923: Opening websockets listen socket on port 9001.
+1717987923: mosquitto version 2.0.18 running
+1717987923: New connection from 172.24.0.1:47708 on port 1883.
+1717987923: New client connected from 172.24.0.1:47708 as mqtt-explorer-78d66663 (p2, c1, k60, u'teste').
+1717987970: New connection from 172.24.0.1:48320 on port 1883.
+1717987970: New client connected from 172.24.0.1:48320 as auto-035D9F3B-2EC7-1355-A12B-4D9EAB981FDC (p2, c1, k60, u'teste').
+1717987974: Client mqtt-explorer-78d66663 disconnected.
+1717988010: New connection from 172.24.0.1:37246 on port 1883.
+1717988010: Client mqtt-explorer-c74927ed disconnected, not authorised.
+1717988015: New connection from 172.24.0.1:37262 on port 1883.
+1717988015: New client connected from 172.24.0.1:37262 as mqtt-explorer-c74927ed (p2, c1, k60, u'teste').
+1717988958: New connection from 172.24.0.7:55776 on port 1883.
+1717988958: New client connected from 172.24.0.7:55776 as paho110017565220631 (p2, c1, k60, u'teste').
+1717988958: Client paho110017565220631 disconnected.
+1717988960: New connection from 172.24.0.7:55778 on port 1883.
+1717988961: New client connected from 172.24.0.7:55778 as paho110020226554129 (p2, c1, k60, u'teste').
+1717989611: mosquitto version 2.0.18 starting
+1717989611: Config loaded from /mosquitto/config/mosquitto.conf.
+1717989611: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1717989611: Opening ipv4 listen socket on port 1883.
+1717989611: Opening ipv6 listen socket on port 1883.
+1717989611: Opening websockets listen socket on port 9001.
+1717989611: mosquitto version 2.0.18 running
+1717989612: New connection from 172.25.0.1:32834 on port 1883.
+1717989612: New client connected from 172.25.0.1:32834 as mqtt-explorer-c74927ed (p2, c1, k60, u'teste').
+1717989668: New connection from 172.25.0.1:54384 on port 1883.
+1717989668: New client connected from 172.25.0.1:54384 as auto-7522ABCE-6863-82CD-C6D4-A26A4761894D (p2, c1, k60, u'teste').
+1717989690: New connection from 172.25.0.7:44192 on port 1883.
+1717989690: New client connected from 172.25.0.7:44192 as paho110749784106431 (p2, c1, k60, u'teste').
+1717989690: Client paho110749784106431 disconnected.
+1717989692: New connection from 172.25.0.7:44200 on port 1883.
+1717989692: New client connected from 172.25.0.7:44200 as paho110752142714126 (p2, c1, k60, u'teste').
+1717989956: Client auto-7522ABCE-6863-82CD-C6D4-A26A4761894D closed its connection.
+1717990258: Client paho110752142714126 disconnected.
+1717990264: mosquitto version 2.0.18 terminating
+1717990264: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718012451: mosquitto version 2.0.18 starting
+1718012451: Config loaded from /mosquitto/config/mosquitto.conf.
+1718012451: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718012451: Opening ipv4 listen socket on port 1883.
+1718012451: Opening ipv6 listen socket on port 1883.
+1718012451: Opening websockets listen socket on port 9001.
+1718012451: mosquitto version 2.0.18 running
+1718012451: New connection from 172.25.0.1:34732 on port 1883.
+1718012451: New client connected from 172.25.0.1:34732 as mqtt-explorer-c74927ed (p2, c1, k60, u'teste').
+1718012486: New connection from 172.25.0.7:42540 on port 1883.
+1718012486: New client connected from 172.25.0.7:42540 as paho111487408257854 (p2, c1, k60, u'teste').
+1718013167: New connection from 172.25.0.1:39408 on port 1883.
+1718013167: New client connected from 172.25.0.1:39408 as auto-CA18810D-EB70-C080-AC33-88442809A40C (p2, c1, k60, u'teste').
+1718013321: Client mqtt-explorer-c74927ed disconnected.
+1718013382: New connection from 172.25.0.7:40780 on port 1883.
+1718013382: New client connected from 172.25.0.7:40780 as paho112383834904652 (p2, c1, k60, u'teste').
+1718013382: Client paho112383834904652 disconnected.
+1718013470: Client auto-CA18810D-EB70-C080-AC33-88442809A40C closed its connection.
+1718013545: Client paho111487408257854 disconnected.
+1718013549: mosquitto version 2.0.18 terminating
+1718013549: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718013556: mosquitto version 2.0.18 starting
+1718013556: Config loaded from /mosquitto/config/mosquitto.conf.
+1718013556: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718013556: Opening ipv4 listen socket on port 1883.
+1718013556: Opening ipv6 listen socket on port 1883.
+1718013556: Opening websockets listen socket on port 9001.
+1718013556: mosquitto version 2.0.18 running
+1718013593: New connection from 172.25.0.7:36514 on port 1883.
+1718013593: New client connected from 172.25.0.7:36514 as paho112594904736458 (p2, c1, k60, u'teste').
+1718014342: New connection from 172.25.0.7:57668 on port 1883.
+1718014342: New client connected from 172.25.0.7:57668 as paho113343680483864 (p2, c1, k60, u'teste').
+1718014342: Client paho113343680483864 disconnected.
+1718014387: Client paho112594904736458 disconnected.
+1718014396: New connection from 172.25.0.7:48352 on port 1883.
+1718014396: New client connected from 172.25.0.7:48352 as paho113397702352455 (p2, c1, k60, u'teste').
+1718014396: Client paho113397702352455 disconnected.
+1718014397: New connection from 172.25.0.7:48360 on port 1883.
+1718014398: New client connected from 172.25.0.7:48360 as paho113399180994828 (p2, c1, k60, u'teste').
+1718014432: New connection from 172.25.0.1:58758 on port 1883.
+1718014432: New client connected from 172.25.0.1:58758 as auto-D1A33E73-0BEE-D976-D92A-5FC94ED3434A (p2, c1, k60, u'teste').
+1718014644: Client paho113399180994828 disconnected.
+1718014649: mosquitto version 2.0.18 terminating
+1718014649: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718014706: mosquitto version 2.0.18 starting
+1718014706: Config loaded from /mosquitto/config/mosquitto.conf.
+1718014706: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718014706: Opening ipv4 listen socket on port 1883.
+1718014706: Opening ipv6 listen socket on port 1883.
+1718014706: Opening websockets listen socket on port 9001.
+1718014706: mosquitto version 2.0.18 running
+1718014728: New connection from 172.26.0.1:44104 on port 1883.
+1718014728: New client connected from 172.26.0.1:44104 as auto-142E7425-1D74-F792-20AD-582EA1BFF14D (p2, c1, k60, u'teste').
+1718014963: New connection from 172.26.0.7:44734 on port 1883.
+1718014963: New client connected from 172.26.0.7:44734 as paho113964851915559 (p2, c1, k60, u'teste').
+1718014963: Client paho113964851915559 disconnected.
+1718015006: New connection from 172.26.0.7:34068 on port 1883.
+1718015006: New client connected from 172.26.0.7:34068 as paho114008140178360 (p2, c1, k60, u'teste').
+1718015007: Client paho114008140178360 disconnected.
+1718015099: mosquitto version 2.0.18 terminating
+1718015099: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718015104: mosquitto version 2.0.18 starting
+1718015104: Config loaded from /mosquitto/config/mosquitto.conf.
+1718015104: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718015104: Opening ipv4 listen socket on port 1883.
+1718015104: Opening ipv6 listen socket on port 1883.
+1718015104: Opening websockets listen socket on port 9001.
+1718015104: mosquitto version 2.0.18 running
+1718015106: New connection from 172.26.0.1:33066 on port 1883.
+1718015106: New client connected from 172.26.0.1:33066 as auto-A99FDCA9-52D8-F98D-80D7-D71D77848917 (p2, c1, k60, u'teste').
+1718015130: mosquitto version 2.0.18 terminating
+1718015130: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718015134: mosquitto version 2.0.18 starting
+1718015134: Config loaded from /mosquitto/config/mosquitto.conf.
+1718015134: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718015134: Opening ipv4 listen socket on port 1883.
+1718015134: Opening ipv6 listen socket on port 1883.
+1718015134: Opening websockets listen socket on port 9001.
+1718015134: mosquitto version 2.0.18 running
+1718015134: New connection from 172.26.0.1:46010 on port 1883.
+1718015134: New client connected from 172.26.0.1:46010 as auto-EFEB8640-F65B-DD48-4243-CD0C54E08839 (p2, c1, k60, u'teste').
+1718015202: New connection from 172.26.0.7:50242 on port 1883.
+1718015202: New client connected from 172.26.0.7:50242 as paho114203860137591 (p2, c1, k60, u'teste').
+1718015202: Client paho114203860137591 disconnected.
+1718015222: mosquitto version 2.0.18 terminating
+1718015222: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718015247: mosquitto version 2.0.18 starting
+1718015247: Config loaded from /mosquitto/config/mosquitto.conf.
+1718015247: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718015247: Opening ipv4 listen socket on port 1883.
+1718015247: Opening ipv6 listen socket on port 1883.
+1718015247: Opening websockets listen socket on port 9001.
+1718015247: mosquitto version 2.0.18 running
+1718015247: New connection from 172.26.0.1:48130 on port 1883.
+1718015247: New client connected from 172.26.0.1:48130 as auto-BD985AF9-110E-9371-AEF8-DACBF05300EE (p2, c1, k60, u'teste').
+1718015291: New connection from 172.26.0.7:53888 on port 1883.
+1718015291: New client connected from 172.26.0.7:53888 as paho114292826554924 (p2, c1, k60, u'teste').
+1718015291: Client paho114292826554924 disconnected.
+1718015298: New connection from 172.26.0.7:34650 on port 1883.
+1718015299: New client connected from 172.26.0.7:34650 as paho114300266119291 (p2, c1, k60, u'teste').
+1718015299: Client paho114300266119291 disconnected.
+1718015300: New connection from 172.26.0.7:34660 on port 1883.
+1718015301: New client connected from 172.26.0.7:34660 as paho114302181959987 (p2, c1, k60, u'teste').
+1718015466: Client paho114302181959987 disconnected.
+1718015471: mosquitto version 2.0.18 terminating
+1718015471: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718015511: mosquitto version 2.0.18 starting
+1718015511: Config loaded from /mosquitto/config/mosquitto.conf.
+1718015511: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718015511: Opening ipv4 listen socket on port 1883.
+1718015511: Opening ipv6 listen socket on port 1883.
+1718015511: Opening websockets listen socket on port 9001.
+1718015511: mosquitto version 2.0.18 running
+1718015514: New connection from 172.27.0.1:41746 on port 1883.
+1718015514: New client connected from 172.27.0.1:41746 as auto-08A2DA22-B551-1CC5-9ABC-897BF2D4ECD3 (p2, c1, k60, u'teste').
+1718015724: New connection from 172.27.0.7:57036 on port 1883.
+1718015724: New client connected from 172.27.0.7:57036 as paho114726085873958 (p2, c1, k60, u'teste').
+1718015724: Client paho114726085873958 disconnected.
+1718015726: New connection from 172.27.0.7:53728 on port 1883.
+1718015726: New client connected from 172.27.0.7:53728 as paho114728017327457 (p2, c1, k60, u'teste').
+1718015860: Client paho114728017327457 disconnected.
+1718015880: mosquitto version 2.0.18 terminating
+1718015880: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718015886: mosquitto version 2.0.18 starting
+1718015886: Config loaded from /mosquitto/config/mosquitto.conf.
+1718015886: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718015886: Opening ipv4 listen socket on port 1883.
+1718015886: Opening ipv6 listen socket on port 1883.
+1718015886: Opening websockets listen socket on port 9001.
+1718015886: mosquitto version 2.0.18 running
+1718015887: New connection from 172.27.0.1:47542 on port 1883.
+1718015887: New client connected from 172.27.0.1:47542 as auto-829EA8AF-AEC6-7231-CD72-BDC1E87AC2BD (p2, c1, k60, u'teste').
+1718015921: mosquitto version 2.0.18 terminating
+1718015921: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718015925: mosquitto version 2.0.18 starting
+1718015925: Config loaded from /mosquitto/config/mosquitto.conf.
+1718015925: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718015925: Opening ipv4 listen socket on port 1883.
+1718015925: Opening ipv6 listen socket on port 1883.
+1718015925: Opening websockets listen socket on port 9001.
+1718015925: mosquitto version 2.0.18 running
+1718015926: New connection from 172.27.0.1:54588 on port 1883.
+1718015926: New client connected from 172.27.0.1:54588 as auto-B87A92B5-8050-E6C0-28A5-9E4DAEB6F0F2 (p2, c1, k60, u'teste').
+1718016424: New connection from 172.27.0.7:52682 on port 1883.
+1718016424: New client connected from 172.27.0.7:52682 as paho115426062587508 (p2, c1, k60, u'teste').
+1718016424: Client paho115426062587508 disconnected.
+1718016426: New connection from 172.27.0.7:41898 on port 1883.
+1718016426: New client connected from 172.27.0.7:41898 as paho115427940464143 (p2, c1, k60, u'teste').
+1718016470: Client auto-B87A92B5-8050-E6C0-28A5-9E4DAEB6F0F2 closed its connection.
+1718016503: New connection from 172.27.0.1:49152 on port 1883.
+1718016503: New client connected from 172.27.0.1:49152 as auto-4FA25449-D7AF-0920-1A26-EED92F76EED0 (p2, c1, k60, u'teste').
+1718016614: Client paho115427940464143 disconnected.
+1718016618: mosquitto version 2.0.18 terminating
+1718016618: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718016641: mosquitto version 2.0.18 starting
+1718016641: Config loaded from /mosquitto/config/mosquitto.conf.
+1718016641: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718016641: Opening ipv4 listen socket on port 1883.
+1718016641: Opening ipv6 listen socket on port 1883.
+1718016641: Opening websockets listen socket on port 9001.
+1718016641: mosquitto version 2.0.18 running
+1718016657: New connection from 172.27.0.1:46498 on port 1883.
+1718016657: New client connected from 172.27.0.1:46498 as auto-76B6A15D-FD0F-F268-1897-66BCC67027F6 (p2, c1, k60, u'teste').
+1718016679: New connection from 172.27.0.7:36094 on port 1883.
+1718016679: New client connected from 172.27.0.7:36094 as paho115680891233096 (p2, c1, k60, u'teste').
+1718016823: New connection from 172.27.0.7:50304 on port 1883.
+1718016823: New client connected from 172.27.0.7:50304 as paho115824897490877 (p2, c1, k60, u'teste').
+1718016823: Client paho115824897490877 disconnected.
+1718016828: Client paho115680891233096 disconnected.
+1718016834: New connection from 172.27.0.7:33982 on port 1883.
+1718016834: New client connected from 172.27.0.7:33982 as paho115835854797861 (p2, c1, k60, u'teste').
+1718016834: Client paho115835854797861 disconnected.
+1718016835: New connection from 172.27.0.7:59294 on port 1883.
+1718016836: New client connected from 172.27.0.7:59294 as paho115837379003730 (p2, c1, k60, u'teste').
+1718016960: Client paho115837379003730 disconnected.
+1718016974: New connection from 172.27.0.7:53798 on port 1883.
+1718016975: New client connected from 172.27.0.7:53798 as paho115976423059479 (p2, c1, k60, u'teste').
+1718016975: Client paho115976423059479 disconnected.
+1718016976: New connection from 172.27.0.7:49638 on port 1883.
+1718016976: New client connected from 172.27.0.7:49638 as paho115977928896862 (p2, c1, k60, u'teste').
+1718017097: Client paho115977928896862 disconnected.
+1718017101: mosquitto version 2.0.18 terminating
+1718017101: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718017245: mosquitto version 2.0.18 starting
+1718017245: Config loaded from /mosquitto/config/mosquitto.conf.
+1718017245: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718017245: Opening ipv4 listen socket on port 1883.
+1718017245: Opening ipv6 listen socket on port 1883.
+1718017245: Opening websockets listen socket on port 9001.
+1718017245: mosquitto version 2.0.18 running
+1718017248: New connection from 172.28.0.1:52174 on port 1883.
+1718017248: New client connected from 172.28.0.1:52174 as auto-D407E97D-FDF2-384E-D971-4E4DBE67A0CD (p2, c1, k60, u'teste').
+1718017323: New connection from 172.28.0.7:46206 on port 1883.
+1718017323: New client connected from 172.28.0.7:46206 as paho116325077858211 (p2, c1, k60, u'teste').
+1718017323: Client paho116325077858211 disconnected.
+1718017325: New connection from 172.28.0.7:46210 on port 1883.
+1718017325: New client connected from 172.28.0.7:46210 as paho116327036194976 (p2, c1, k60, u'teste').
+1718017422: Client paho116327036194976 disconnected.
+1718017593: New connection from 172.28.0.7:42628 on port 1883.
+1718017593: New client connected from 172.28.0.7:42628 as paho116594599010375 (p2, c1, k60, u'teste').
+1718017680: Client paho116594599010375 disconnected.
+1718017680: New connection from 172.28.0.7:43662 on port 1883.
+1718017680: New client connected from 172.28.0.7:43662 as paho116681813100399 (p2, c1, k60, u'teste').
+1718017739: Client paho116681813100399 disconnected.
+1718017763: mosquitto version 2.0.18 starting
+1718017763: Config loaded from /mosquitto/config/mosquitto.conf.
+1718017763: Warning: File /mosquitto/config/passwordfile has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/passwordfile`.
+1718017763: Opening ipv4 listen socket on port 1883.
+1718017763: Opening ipv6 listen socket on port 1883.
+1718017763: Opening websockets listen socket on port 9001.
+1718017763: mosquitto version 2.0.18 running
+1718017764: New connection from 172.28.0.1:36642 on port 1883.
+1718017764: New client connected from 172.28.0.1:36642 as auto-B480195C-5CA6-E1A7-B6F1-BB9B048F5EF6 (p2, c1, k60, u'teste').
+1718020164: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1718020833: mosquitto version 2.0.18 terminating
+1718020833: Saving in-memory database to /mosquitto/data//mosquitto.db.

@@ -1,0 +1,58 @@
+<clickhouse replace="true">
+    <logger>
+        <level>debug</level>
+        <log>/var/log/clickhouse-server/clickhouse-server.log</log>
+        <errorlog>/var/log/clickhouse-server/clickhouse-server.err.log</errorlog>
+        <size>1000M</size>
+        <count>3</count>
+    </logger>
+    <display_name>ch-1S_1K</display_name>
+    <listen_host>0.0.0.0</listen_host>
+    <http_port>8123</http_port>
+    <tcp_port>9000</tcp_port>
+    <user_directories>
+        <users_xml>
+            <path>users.xml</path>
+        </users_xml>
+        <local_directory>
+            <path>/var/lib/clickhouse/access/</path>
+        </local_directory>
+    </user_directories>
+    <distributed_ddl>
+        <path>/clickhouse/task_queue/ddl</path>
+    </distributed_ddl>
+    <zookeeper>
+        <node>
+            <host>clickhouse-keeper</host>
+            <port>9181</port>
+        </node>
+    </zookeeper>
+    <kafka>
+        <!-- Global configuration options for all tables of Kafka engine type -->
+        <debug>cgrp</debug>
+        <statistics_interval_ms>3000</statistics_interval_ms>
+
+        <kafka_topic>
+            <name>estacao</name>
+            <statistics_interval_ms>4000</statistics_interval_ms>
+        </kafka_topic>
+
+        <!-- Settings for consumer -->
+        <consumer>
+            <auto_offset_reset>smallest</auto_offset_reset>
+            <kafka_topic>
+                <name>estacao</name>
+                <fetch_min_bytes>100000</fetch_min_bytes>
+            </kafka_topic>
+        </consumer>
+
+        <!-- Settings for producer -->
+        <producer>
+            <kafka_topic>
+                <name>estacao</name>
+                <retry_backoff_ms>250</retry_backoff_ms>
+            </kafka_topic>
+
+        </producer>
+    </kafka>
+</clickhouse>
