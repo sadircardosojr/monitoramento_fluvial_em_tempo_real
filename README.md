@@ -11,8 +11,10 @@ O objetivo principal deste projeto é desenvolver ferramentas e scripts para col
 Este repositório contém os seguintes scripts:
 
 - `IoT`: Arquivo de configuração base para ESP32 + Sensores.
-- `MQTT (Mosquitto)`: Arquivos para execução do broker MQTT.
+- `MQTT`: Arquivos para execução do broker MQTT Mosquitto.
 - `Kafka`: Arquivos para execução do Apache Kafka.
+- `ClickHouse`: Arquivos para execução do ClickHouse.
+- `Superset`: Arquivos para execução do Apache Superset.
   
 ## Como Usar
 
@@ -20,3 +22,5 @@ Este repositório contém os seguintes scripts:
 
    ```bash
    git clone https://github.com/seu-usuario/monitoramento_fluvial_em_tempo_real.git
+
+2. **Siga o processo definido no projeto relacionado a este repositório**
