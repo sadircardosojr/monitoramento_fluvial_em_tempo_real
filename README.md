@@ -15,6 +15,7 @@ Este repositório contém os seguintes scripts:
 - `Kafka`: Arquivos para execução do Apache Kafka.
 - `ClickHouse`: Arquivos para execução do ClickHouse.
 - `Superset`: Arquivos para execução do Apache Superset.
+- `_Monitoramento`: Arquivos para execução do ambiente completo compacto.
   
 ## Como Usar
 
